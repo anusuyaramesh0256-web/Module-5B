@@ -10,7 +10,7 @@ To write a Python program using **NumPy** that finds the indices where elements 
    - `x > y` gives a boolean array where elements of `x` are greater than `y`.
    - `x == y` gives a boolean array where elements of `x` are equal to `y`.
 4. **Find Indices**: Use `np.where()` to get the indices where the conditions `x >= y` are satisfied.
-5. **Print Indices**: Print the indices where the condition holds true.
+5. **Print Indices**: Print the indices where the condition holds true
 
 ## 🧾 Program
 ```
