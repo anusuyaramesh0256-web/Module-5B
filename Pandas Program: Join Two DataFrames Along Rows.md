@@ -12,7 +12,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 2. **Create First DataFrame**: Use a dictionary to create `student_data1`.
 3. **Create Second DataFrame**: Use another dictionary to create `student_data2`.
 4. **Concatenate DataFrames**: Use `pd.concat()` with `axis=0` to concatenate both DataFrames row-wise.
-5. **Display Result**: Print the new combined DataFrame.
+5. **Display Result**: Print the new combined DataFrame
 
 ---
 
